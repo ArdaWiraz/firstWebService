@@ -1,2 +1,2 @@
 # firstWebService
-java we service
+java web service
